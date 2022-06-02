@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
     TextView rssiVal;
     BleAdapter adapter;
     @BindView(R.id.loading)
-    private ProgressBar loading;
+    ProgressBar loading;
 
     private Context context;
 

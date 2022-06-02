@@ -36,10 +36,10 @@ public class AutoConnectFragment extends Fragment {
     private Bluetooth bluetooth;
 
     @BindView(R.id.device_name)
-    private TextView deviceName;
+    TextView deviceName;
 
     @BindView(R.id.value)
-    private TextView value;
+    TextView value;
 
     public AutoConnectFragment() {
         // Required empty public constructor
