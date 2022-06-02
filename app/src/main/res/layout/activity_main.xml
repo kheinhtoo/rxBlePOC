@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         tools:context=".fragments.AutoConnectFragment">
 
-        <fragment
+        <FrameLayout
             android:id="@+id/auto_connect"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
